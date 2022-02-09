@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Michael Collins](https://github.com/mcollins21)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm [Michael](https://github.com/mcollins21)!
 
 Currently I'm studying Computer Science at Loyola University Chicago. I´m based in Chicago, Illinois.
 
