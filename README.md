@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm [Michael](https://github.com/mcollins21)!
 
-Currently I'm studying Computer Science at Loyola University Chicago. I´m based in Chicago, Illinois.
+Currently I'm studying Computer Science at Loyola University Chicago and I´m based in Chicago, Illinois.
 
 Since 2019 I've been exploring the world of audio software, specifically VST3 plugins and Ableton Max for Live devices. :control_knobs:
 
