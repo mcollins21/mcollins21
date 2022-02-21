@@ -7,7 +7,7 @@ Since 2019 I've been exploring the world of audio software, specifically VST3 pl
 ### What I'm focusing on 👨‍💻
 
 Currently leveling up both my java and assembly language skills! <br />
-Outside out coding you can catch me at the music studio or grabbing a cup of coffee! :coffee:
+Outside out coding you can probably find me at the music studio or grabbing a cup of coffee! :coffee:
 
 ### Some things of interest 😃🧾
 <!-- BLOG-POST-LIST:START -->
