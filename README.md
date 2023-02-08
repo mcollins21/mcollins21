@@ -2,7 +2,7 @@
 
 Currently I'm studying Computer Science at Loyola University Chicago and I´m based in Chicago, Illinois.
 
-Since 2019 I've been exploring the world of audio software, specifically VST3 plugins and Ableton Max for Live devices. :control_knobs:
+Since 2019 I've been exploring the world of audio software, specifically the creation of VST3 plugins and Ableton Max for Live devices. :control_knobs:
 
 ### What I'm focusing on 👨‍💻
 
