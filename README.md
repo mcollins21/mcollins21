@@ -9,7 +9,7 @@ Since 2019 I've been exploring the world of audio software, specifically the cre
 Currently leveling up my experience in advanced data structures and assembly level programming. <br />
 Outside out coding you can probably find me at the music studio or grabbing a cup of coffee! :coffee:
 
-### Some things of interest 😃🧾
+### Some things of interest 🔍 
 <!-- BLOG-POST-LIST:START -->
 - [Machine Learning & Music Production on Magenta](https://magenta.tensorflow.org)
 - [Differentiable Digital Signal Processing](https://openreview.net/forum?id=B1x1ma4tDr)
