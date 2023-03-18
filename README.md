@@ -17,7 +17,7 @@ Currently leveling up my experience in advanced data structures and assembly lev
 - [GrooVAE: Generating and Controlling Expressive Drum Performances](https://magenta.tensorflow.org/groovae)
 <!-- BLOG-POST-LIST:END -->
 
-### Current Skills
+### Current Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java)](https://skillicons.dev)
 
