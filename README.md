@@ -27,6 +27,10 @@ Outside out coding you can probably find me at the music studio or grabbing a cu
 :camera: instagram: eauxmy <br />
 :bird: twitter: itseauxmy
 
+### Longest Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mcollins21&theme=icegray&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 <!---
 mcollins21/mcollins21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
