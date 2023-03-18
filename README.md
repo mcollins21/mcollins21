@@ -21,10 +21,6 @@ Currently leveling up my experience in advanced data structures and assembly lev
 
 [![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java)](https://skillicons.dev)
 
-### Find me elsewhere:
-
-:camera: instagram: eauxmy <br />
-:bird: twitter: itseauxmy
 
 ### Longest Streak:
 
