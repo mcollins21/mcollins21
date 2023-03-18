@@ -2,12 +2,11 @@
 
 Currently I'm studying Computer Science at Loyola University Chicago and I´m based in Chicago, Illinois.
 
-Since 2019 I've been exploring the world of audio software, specifically the creation of VST3 plugins and Max/MSP. :control_knobs:
+Since 2019 I've been exploring the world of audio software, specifically the creation of VST3 plugins and Max/MSP.
 
 ### What I'm focusing on 👨‍💻
 
-Currently leveling up my experience in advanced data structures and assembly level programming. <br />
-Outside out coding you can probably find me at the music studio or grabbing a cup of coffee! :coffee:
+Currently leveling up my experience in advanced data structures and assembly level programming. <br /> Outside out coding you can probably find me at the music studio or grabbing a cup of coffee!
 
 ### Some things of interest 🔍 
 <!-- BLOG-POST-LIST:START -->
@@ -22,12 +21,12 @@ Outside out coding you can probably find me at the music studio or grabbing a cu
 
 [![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java)](https://skillicons.dev)
 
-### Find me elsewhere 🌎
+### Find me elsewhere:
 
 :camera: instagram: eauxmy <br />
 :bird: twitter: itseauxmy
 
-### Longest Streak
+### Longest Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mcollins21&theme=icegray&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
