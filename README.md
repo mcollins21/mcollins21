@@ -18,6 +18,10 @@ Outside out coding you can probably find me at the music studio or grabbing a cu
 - [GrooVAE: Generating and Controlling Expressive Drum Performances](https://magenta.tensorflow.org/groovae)
 <!-- BLOG-POST-LIST:END -->
 
+### Current Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java)](https://skillicons.dev)
+
 ### Find me elsewhere 🌎
 
 :camera: instagram: eauxmy <br />
