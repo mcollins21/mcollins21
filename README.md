@@ -24,7 +24,7 @@ Currently leveling up my experience in advanced data structures and assembly lev
 
 ### Longest Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mcollins21&theme=icegray&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mcollins21&theme=swift&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <!---
 mcollins21/mcollins21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
