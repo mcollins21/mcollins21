@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm [Michael](https://github.com/mcollins21)!
 
-Currently I'm studying Computer Science at Loyola University Chicago and I´m based in Chicago, Illinois. <br /> Since 2020 I've been audio software, specifically the creation of VST3 plugins and Max/MSP.
+Currently I'm studying Computer Science at Loyola University Chicago and I´m based in Chicago, Illinois. <br /> Since 2020 I've been studying audio software development, specifically the creation of VST3 plugins and Max/MSP.
 
 ### What I'm focusing on 👨‍💻
 
