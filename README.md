@@ -17,7 +17,7 @@ Currently leveling up my experience in advanced data structures and assembly lev
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java,matlab)](https://skillicons.dev)
 
 
 ### Longest Streak:
