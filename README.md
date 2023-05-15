@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Here's a little bit about me:
 
-- ✨ Software Developer and 
+- ✨ Software Developer and Audiophile
 - 🌍 Based in Chicago, USA.
 - 🛠️ Working on creating an Audio Tech Startup
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/michaelcollinswav/) · [email](mailto:mcollins21@luc.edu)
