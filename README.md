@@ -13,7 +13,7 @@
 
 ### Current Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,ableton,github,html,java,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,java,vim,matlab,ableton,androidstudio)](https://skillicons.dev)
 
 
 <!---
