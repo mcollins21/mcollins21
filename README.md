@@ -2,7 +2,7 @@
 
 - ✨ Software Developer and Audiophile
 - 🌍 Based in Chicago, USA.
-- 🛠️ Working on creating an Audio Tech Startup
+- 🛠️ Cofounder of [Toneau Audio](https://github.com/toneauaudio)
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/michaelcollinswav/) · [email](mailto:mcollins21@luc.edu)
 - 📑 Grab my resumé while you're here:
 
