@@ -6,10 +6,8 @@
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/michaelcollinswav/) · [email](mailto:mcollins21@luc.edu)
 - 📑 Grab my resumé while you're here:
 
-<a href="https://github.com/mcollins21">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mcollins21&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcollins21&layout=compact&theme=vue">
-</a>
+![mcollins21's Stats](https://github-readme-stats.vercel.app/api?username=mcollins21&theme=default&show_icons=true&hide_border=true&count_private=true)
+![mcollins21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcollins21&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ### Current Skills:
 
