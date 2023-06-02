@@ -6,9 +6,6 @@
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/michaelcollinswav/) · [email](mailto:mcollins21@luc.edu)
 - 📑 Grab my resumé while you're here:
 
-![mcollins21's Stats](https://github-readme-stats.vercel.app/api?username=mcollins21&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![mcollins21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcollins21&theme=vue&show_icons=true&hide_border=true)
-
 ### ToolBox:
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,java,vim,matlab,ableton,androidstudio)](https://skillicons.dev)
