@@ -7,9 +7,9 @@
 - 📑 Grab my resumé while you're here:
 
 ![mcollins21's Stats](https://github-readme-stats.vercel.app/api?username=mcollins21&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![mcollins21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcollins21&theme=vue&show_icons=true&hide_border=true&layout=compact)
+![mcollins21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcollins21&theme=vue&show_icons=true&hide_border=true)
 
-### Current Skills:
+### ToolBox:
 
 [![My Skills](https://skillicons.dev/icons?i=c,html,java,vim,matlab,ableton,androidstudio)](https://skillicons.dev)
 
