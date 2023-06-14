@@ -8,7 +8,7 @@
 
 ### ToolBox:
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,java,css,vim,matlab,ableton,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,java,css,vim,matlab,ableton,figma)](https://skillicons.dev)
 
 
 <!---
