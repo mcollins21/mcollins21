@@ -4,7 +4,7 @@
 - 🌍 Based in Chicago, USA.
 - 🛠️ Cofounder of [Toneau Audio](https://github.com/toneauaudio)
 - 📫 Find me on: [linkedin](https://www.linkedin.com/in/michaelcollinswav/) · [email](mailto:mcollins21@luc.edu)
-- 📑 Grab my resumé while you're here:
+- 📑 Check out my resumé while you're here: [Resumé](https://www.linkedin.com/in/michaelcollinswav/overlay/1711070367940/single-media-viewer/?type=DOCUMENT&profileId=ACoAAD67xvUB-D-dZvmqKBxQlYGlh4oYi3wgarE)
 
 ### ToolBox:
 
